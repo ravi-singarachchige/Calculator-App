@@ -1,4 +1,4 @@
-# java-calculator
+Calculator App
 Very simple java calculator with basic functionalities for simple Maths calculations
 
 
